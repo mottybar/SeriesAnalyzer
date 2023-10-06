@@ -1,5 +1,8 @@
 <h1>The Series Analyzer</h1><br />
 
+a simple program in Bash Scripting that can display <br />
+some statistical properties of a positive numbers series.<br />
+
 menu:<br />
 a. Input a Series. (Replace the current series) <br />
 b. Display the series in the order it was entered.<br />

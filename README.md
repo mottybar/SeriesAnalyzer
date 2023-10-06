@@ -1,4 +1,4 @@
-The Series Analyzer<br />
+<h1>The Series Analyzer</h1><br />
 a. Input a Series. (Replace the current series) <br />
 b. Display the series in the order it was entered.<br />
 c. Display the series in sorted order (from low to

@@ -1,4 +1,4 @@
-<h1>The Series Analyzer</h1><br />
+#The Series Analyzer<br />
 
 a simple program in Bash Scripting that can display <br />
 some statistical properties of a positive numbers series.<br />
